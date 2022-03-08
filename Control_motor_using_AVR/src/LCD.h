@@ -6,8 +6,6 @@
  *
  * Description: Header file for the LCD driver
  *
- * Author: Mohamed Tarek
- *
  *******************************************************************************/
 
 #ifndef LCD_H_
